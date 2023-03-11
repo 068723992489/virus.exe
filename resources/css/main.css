@@ -314,7 +314,7 @@ header .typed-cursor {
 
 	margin: 0 10px;
 
-	color: #00a8ff;
+	color: #502c94;
 
 	-webkit-animation-name: flash;
 
@@ -336,7 +336,7 @@ a {
 
 	text-decoration: none;
 
-	color: #00a8ff;
+	color: #502c94;
 
 	-webkit-transition: all 0.3s ease;
 
@@ -379,7 +379,7 @@ nav.navbar {
 
 nav.navbar .navbar-nav li.active a:not(.btn) {
 
-	color: #00a8ff !important;
+	color: #502c94 !important;
 
 }
 
@@ -457,7 +457,7 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 
 .btn.btn-blue {
 
-	background: #00a8ff;
+	background: #502c94;
 
 }
 
@@ -473,9 +473,9 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 
 .btn.btn-blue-fill {
 
-	color: #00a8ff;
+	color: #502c94;
 
-	border-color: #00a8ff;
+	border-color: #502c94;
 
 	background: transparent;
 
@@ -487,7 +487,7 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 
 	color: white;
 
-	background: #00a8ff;
+	background: #502c94;
 
 }
 
@@ -507,7 +507,7 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 
 .btn.btn-white-fill:hover {
 
-	color: #00a8ff;
+	color: #502c94;
 
 	background: #fff;
 
@@ -1021,7 +1021,7 @@ section {
 
 .service:hover {
 
-	border-color: #00a8ff;
+	border-color: #502c94;
 
 }
 
@@ -1145,7 +1145,7 @@ section {
 
 #pricing {
 
-	background: #00a8ff url('../img/pricing1.jpg') no-repeat center center;
+	background: #502c94 url('../img/pricing1.jpg') no-repeat center center;
 
 	-webkit-background-size: cover;
 
@@ -1283,7 +1283,7 @@ section {
 
 .pricings .pricing .box-main.active {
 
-	background: #00a8ff;
+	background: #502c94;
 
 	-webkit-transform: translateX(-99%);
 
@@ -1317,7 +1317,7 @@ section {
 
 	opacity: 1;
 
-	background: #00a8ff;
+	background: #502c94;
 
 }
 
@@ -1327,7 +1327,7 @@ section {
 
 .pricings .pricing .box-second {
 
-	background: #00a8ff;
+	background: #502c94;
 
 }
 
@@ -1487,7 +1487,7 @@ footer .social-footer li a {
 
 footer .social-footer li:hover a {
 
-	color: #00a8ff;
+	color: #502c94;
 
 }
 
@@ -1753,7 +1753,7 @@ footer .social-footer li:hover a {
 
 	padding: 15px 30px;
 
-	color: #00a8ff;
+	color: #502c94;
 
 }
 
@@ -1763,7 +1763,7 @@ footer .social-footer li:hover a {
 
 	color: #fff;
 
-	background: #00a8ff;
+	background: #502c94;
 
 }
 
@@ -1905,7 +1905,7 @@ footer .social-footer li:hover a {
 
 	margin-top: 30px;
 
-	color: #00a8ff;
+	color: #502c94;
 
 	border: 2px solid #fff;
 
@@ -1925,7 +1925,7 @@ footer .social-footer li:hover a {
 
 .btn.btn-submit:hover {
 
-	color: #00a8ff;
+	color: #502c94;
 
 	background: #fff;
 
@@ -2033,7 +2033,7 @@ footer .social-footer li:hover a {
 
 	color: #fff;
 
-	background: #00a8ff;
+	background: #502c94;
 
 }
 
@@ -2107,7 +2107,7 @@ footer .social-footer li:hover a {
 
 .blue {
 
-	color: #00a8ff;
+	color: #502c94;
 
 }
 
@@ -2115,7 +2115,7 @@ footer .social-footer li:hover a {
 
 .blue-bg {
 
-	background: #00a8ff;
+	background: #502c94;
 
 }
 
@@ -2227,13 +2227,13 @@ footer .social-footer li:hover a {
 
 		text-align: left;
 
-		background: #00a8ff;
+		background: #502c94;
 
 	}
 
 	.pricings .pricing .box-main.active {
 
-		background: #00a8ff;
+		background: #502c94;
 
 		-webkit-transform: translateX(0%);
 
